@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.ByteArrayInputStream"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
+    <fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+    <fullyQualifiedTypeName name="string.programs.OneStringRotationOfAnother"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.entities.Movie"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.entities.Book"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.entities.WebLink"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.constants.Gender"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.dao.UserDao"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.dao.BookmarkDao"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.managers.UserManager"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.controllers.BookmarkController"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.entities.User"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.entities.Bookmark"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.entities.UserBookmark"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.constants.MovieGenre"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.managers.BookmarkManager"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.constants.BookGenre"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.DataStore"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.constants.UserType"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.controllers.KidFriendlyStatus"/>
+    <fullyQualifiedTypeName name="org.apache.commons.lang3.StringUtils"/>
+    <fullyQualifiedTypeName name="com.semanticsquare.thrillio.partner.Shareable"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

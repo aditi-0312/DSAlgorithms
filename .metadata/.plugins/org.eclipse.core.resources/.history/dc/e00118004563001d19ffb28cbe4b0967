@@ -1,0 +1,18 @@
+package number.programs;
+
+import java.util.Scanner;
+
+public class AutomorphicNum {
+
+	public static void main(String[] args) {
+		System.out.println("enter the number: ");
+		Scanner sc=new Scanner(System.in);
+		int num=sc.nextInt();
+		
+		int square=num*num;
+		System.out.println(square);
+		
+		
+	}
+
+}

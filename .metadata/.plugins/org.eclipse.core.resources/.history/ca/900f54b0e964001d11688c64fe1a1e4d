@@ -1,0 +1,25 @@
+package number.programs;
+
+import java.util.Scanner;
+
+public class TechNumber {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int n=sc.nextInt();
+		
+		int num, digit = 0;
+		
+		while(n>0) {
+			digit++;
+			n=n/10;
+		}
+		
+		if(digit%2==0) {
+			num=n;
+			
+		}
+		
+	}
+
+}

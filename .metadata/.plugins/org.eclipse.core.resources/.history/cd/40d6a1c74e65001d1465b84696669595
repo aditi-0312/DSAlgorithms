@@ -1,0 +1,22 @@
+package number.programs;
+
+import java.util.Scanner;
+
+public class SunnyNumber {
+
+	public static void main(String[] args) {
+		System.out.println("enter the number: ");
+		Scanner sc=new Scanner (System.in);
+		int n=sc.nextInt();
+		
+		int num=n+1;
+		int sqrt=(int) Math.sqrt(num);
+		System.out.println(sqrt);
+		
+		if(Math.floor(sqrt)==sqrt) {
+			System.out.println("sunny no.");
+		}else
+			System.out.println("not a sunny no.");
+	}
+
+}

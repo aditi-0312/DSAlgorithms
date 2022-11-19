@@ -1,0 +1,28 @@
+package number.programs;
+
+import java.util.Scanner;
+
+public class FascinatingNumber {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int n=sc.nextInt();
+		
+		int n1 =0,n2, digit=0;
+		
+		while(n>0) {
+			digit++;
+			n=n/10;
+		}
+		
+		if(digit<3) {
+			System.out.println(n + " is not a fascinating number");
+		}else
+			 n1=n*2;
+			 n2=n*3;
+			 n=n+n1+n2;
+			 System.out.println(n);
+		
+	}
+
+}

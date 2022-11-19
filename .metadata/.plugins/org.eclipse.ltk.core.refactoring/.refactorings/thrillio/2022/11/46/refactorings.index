@@ -1,0 +1,6 @@
+1668031590921	Extract constant 'BOOKMARK_TYPES_COUNT'
+1668031635757	Extract constant 'BOOKMARK_COUNTER_PER_TYPE'
+1668031704782	Extract constant 'USER_BOOKMARK_LIMIT'
+1668192827610	Encapsulate field 'kidFriendlyStatus'
+1668204098928	Encapsulate field 'kidFriendlyMarkedBy'
+1668205794677	Encapsulate field 'sharedBy'
